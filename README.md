@@ -52,13 +52,13 @@ Applied PageRank using all three methods on a real-world dataset of ~1000 nodes.
 A small graph of 11 nodes with specific paths labeled A–E.  
 We computed both **node ranks** and **edge ranks** based on PageRank scores and link importance.
 
-### 🔝 Top Nodes (α = 0.85)
+### Top Nodes (α = 0.85)
 
 - Node 4: 0.1712  
 - Node 8: 0.1642  
 - Node 6: 0.1549
 
-### 🔝 Top Edges by Rank
+### Top Edges by Rank
 
 | Edge   | Edge Rank |
 |--------|-----------|
